@@ -1,0 +1,13 @@
+.optionButton {
+    color: black;
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: none;
+    background-size: cover;
+}
+
+h1, h2 {
+    color: black;
+}
